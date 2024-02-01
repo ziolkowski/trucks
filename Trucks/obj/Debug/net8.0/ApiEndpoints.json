@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "GetAllTrucks",
+    "RelativePath": "Truck",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parameters",
+        "Type": "Trucks.Dto.QueryParameters",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "UpdateTruck",
+    "RelativePath": "Truck",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Trucks.Dto.UpdateTruckDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "CreateTruck",
+    "RelativePath": "Truck/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Trucks.Dto.CreateTruckDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "SetTruckStatus",
+    "RelativePath": "Truck/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Trucks.Dto.UpdateTruckStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "GetTruckById",
+    "RelativePath": "Truck/{truckId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "truckId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Trucks.Controllers.TruckController",
+    "Method": "DeleteTruck",
+    "RelativePath": "Truck/{truckId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "truckId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
