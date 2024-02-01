@@ -93,8 +93,7 @@
               "RelativeToolTip": "Utilites\\Exceptions\\BusinessConflictException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:13:45.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:13:45.53Z"
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "RelativeToolTip": "Utilites\\Exceptions\\BusinessException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:13:41.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:13:41.195Z"
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "Utilites\\Exceptions\\BusinessNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:13:27.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:13:27.049Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "Dto\\UpdateTruckDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:11:46.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:11:46.12Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "DataAccess\\Queries\\GetAllTrucks\\GetAllTrucksValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:08:12.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:08:12.674Z"
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "DataAccess\\Queries\\GetAllTrucks\\GetAllTrucksQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T14:11:33.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T14:11:33.397Z"
             },
             {
               "$type": "Document",
@@ -184,8 +178,7 @@
               "RelativeToolTip": "DataAccess\\Commands\\UpdateTruck\\UpdateTruckValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T15:36:59.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T15:36:59.205Z"
             },
             {
               "$type": "Document",
@@ -197,8 +190,7 @@
               "RelativeToolTip": "DataAccess\\Commands\\CreateTruck\\CreateTruckValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T15:34:59.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T15:34:59.823Z"
             },
             {
               "$type": "Document",
@@ -210,8 +202,7 @@
               "RelativeToolTip": "Enums\\TruckStatus.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T16:02:00.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T16:02:00.777Z"
             },
             {
               "$type": "Document",
@@ -223,8 +214,7 @@
               "RelativeToolTip": "Services\\TruckStatusService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T13:44:39.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T13:44:39.681Z"
             },
             {
               "$type": "Document",
@@ -236,8 +226,7 @@
               "RelativeToolTip": "Controllers\\TruckController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAYwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T14:59:23.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T14:59:23.888Z"
             },
             {
               "$type": "Document",
@@ -249,8 +238,7 @@
               "RelativeToolTip": "DataAccess\\Repositories\\ITruckRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T14:12:53.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-01T14:12:53.848Z"
             },
             {
               "$type": "Document",
@@ -262,8 +250,7 @@
               "RelativeToolTip": "DataAccess\\Repositories\\TruckRepository.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-25T15:29:10.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-25T15:29:10.81Z"
             }
           ]
         }
